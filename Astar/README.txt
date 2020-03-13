@@ -1,0 +1,1 @@
+Python implementation of the well known A* algorithm
